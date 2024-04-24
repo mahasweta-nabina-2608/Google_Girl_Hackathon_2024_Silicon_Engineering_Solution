@@ -50,5 +50,5 @@ average_latency = total_latency / total_cycles
 # Calculate average bandwidth
 average_bandwidth = total_bytes_transferred / total_cycles
 
-print("Average Latency:", average_latency)
-print("Average Bandwidth:", average_bandwidth)
+print("Average Latency:", average_latency,"/n")
+print("Average Bandwidth:", average_bandwidth,"/n")
